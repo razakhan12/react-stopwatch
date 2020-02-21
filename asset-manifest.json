@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-stopwatch/static/css/main.92a11865.chunk.css",
+    "main.js": "/react-stopwatch/static/js/main.df6101ce.chunk.js",
+    "main.js.map": "/react-stopwatch/static/js/main.df6101ce.chunk.js.map",
+    "runtime-main.js": "/react-stopwatch/static/js/runtime-main.7a158a9d.js",
+    "runtime-main.js.map": "/react-stopwatch/static/js/runtime-main.7a158a9d.js.map",
+    "static/js/2.a238f085.chunk.js": "/react-stopwatch/static/js/2.a238f085.chunk.js",
+    "static/js/2.a238f085.chunk.js.map": "/react-stopwatch/static/js/2.a238f085.chunk.js.map",
+    "index.html": "/react-stopwatch/index.html",
+    "precache-manifest.26899954035b077b200b7bb6cde16d0d.js": "/react-stopwatch/precache-manifest.26899954035b077b200b7bb6cde16d0d.js",
+    "service-worker.js": "/react-stopwatch/service-worker.js",
+    "static/css/main.92a11865.chunk.css.map": "/react-stopwatch/static/css/main.92a11865.chunk.css.map",
+    "static/js/2.a238f085.chunk.js.LICENSE.txt": "/react-stopwatch/static/js/2.a238f085.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-stopwatch/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a158a9d.js",
+    "static/js/2.a238f085.chunk.js",
+    "static/css/main.92a11865.chunk.css",
+    "static/js/main.df6101ce.chunk.js"
+  ]
+}
